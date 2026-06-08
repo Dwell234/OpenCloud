@@ -1,146 +1,101 @@
-# OpenCloud
+```fix
+OPENCLOUD
+The #1 Serverside Access Method For Roblox
+```
 
-> ## The #1 Serverside Access Method for Roblox
+> Discovered by the infamous Blackhat Modded.
 >
-> Discovered by the infamous **Blackhat Modded**
->
-> *No executors. No loaders. No client modifications.*
+> No executors.
+> No loaders.
+> No client modifications.
 
----
+══════════════════════════════
 
-# What Is OpenCloud?
+**WHAT IS OPENCLOUD?**
 
-OpenCloud is a cloud based serverside access platform built around a single objective:
+OpenCloud is a cloud based serverside access platform designed around one goal:
 
-# Maximum Control
+**Maximum Control.**
 
-Traditional methods require:
+Traditional methods require executors, script injection, memory editing, or joining the target game.
 
-❌ Executors
+OpenCloud removes all of that.
 
-❌ Script Injection
+Instead of operating from the client, OpenCloud focuses entirely on cloud infrastructure and advanced service interaction.
 
-❌ Memory Modification
+══════════════════════════════
 
-❌ Joining The Game
+**WHY OPENCLOUD?**
 
-❌ Client Side Software
+⚡ No Executors
 
-OpenCloud removes all of them.
+⚡ No Script Injection
 
-Instead, it leverages direct cloud infrastructure interaction to provide a streamlined path to advanced Roblox management capabilities.
+⚡ No Memory Editing
 
----
+⚡ No Client Modification
 
-# The Discovery
+⚡ No Game Join Requirement
 
-> "Why inject into the game when you can interact with the cloud itself?"
+⚡ No Backdoors
 
-The concept behind OpenCloud was first documented by the infamous **Blackhat Modded** after extensive research into Roblox cloud infrastructure and large scale service behavior.
+⚡ No Persistence
 
-The methodology quickly gained attention due to its complete departure from traditional exploit based approaches.
+══════════════════════════════
+
+**CAPABILITIES**
+
+• Execute serverside Lua
+
+• Manage active players
+
+• Access DataStore resources
+
+• Control server operations
+
+• Automate administrative tasks
+
+• Interact with Roblox services
+
+• Manage entire universes remotely
+
+══════════════════════════════
+
+**THE DISCOVERY**
+
+The methodology behind OpenCloud was originally documented by the infamous Blackhat Modded after extensive research into Roblox cloud infrastructure.
 
 While most projects focused on the client, OpenCloud focused on the cloud.
 
----
+The result was a completely different approach that quickly became one of the most talked about concepts in the Roblox scene.
 
-# Capabilities
+══════════════════════════════
 
-| Capability | Available |
-|------------|------------|
-| Serverside Lua Execution | ✅ |
-| Player Management | ✅ |
-| DataStore Management | ✅ |
-| Universe Operations | ✅ |
-| Service Interaction | ✅ |
-| Automation Systems | ✅ |
+**MISSION**
 
----
-
-# Why OpenCloud?
-
-## No Executors
-
-No downloads.
-
-No injectors.
-
-No loaders.
-
-No unnecessary software.
-
-## No Client Modifications
-
-Nothing runs inside Roblox.
-
-Everything is handled externally.
-
-## Fast Deployment
-
-Minimal setup.
-
-Immediate operation.
-
-Scalable architecture.
-
----
-
-# Traditional Tools vs OpenCloud
-
-| Feature | Traditional Tools | OpenCloud |
-|----------|----------|----------|
-| Executor Required | ✅ | ❌ |
-| Join Required | ✅ | ❌ |
-| Client Modification | ✅ | ❌ |
-| Cloud Based | ❌ | ✅ |
-| Automation Ready | ⚠️ | ✅ |
-
----
-
-# Requirements
-
-```text
-Valid OpenCloud API Key
-
-Internet Connection
-
-Basic Roblox Infrastructure Knowledge
-```
-
----
-
-# Mission Statement
-
-OpenCloud exists to push the boundaries of cloud based Roblox management.
+OpenCloud exists to push the limits of cloud based Roblox management.
 
 Built around:
 
-* Performance
-* Automation
-* Scalability
-* Simplicity
-* Control
+• Performance
 
----
+• Automation
 
-# Repository
+• Scalability
 
-https://github.com/opencloud/ss-access
+• Simplicity
 
----
+• Control
 
-# License
+══════════════════════════════
 
-MIT License
+**NO SCRIPTS.**
 
----
+**NO EXECUTORS.**
 
-# OpenCloud
+**NO COMPROMISES.**
 
-## No Scripts.
+**JUST OPENCLOUD.**
 
-## No Executors.
-
-## No Compromises.
-
-# Just OpenCloud.
+```
+```
