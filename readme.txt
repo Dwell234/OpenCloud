@@ -1,120 +1,119 @@
-# ☁️ OpenCloud
+# OpenCloud
 
-> ### The #1 Serverside Access Method for Roblox
+> ## The #1 Serverside Access Method for Roblox
 >
 > Discovered by the infamous **Blackhat Modded**
 >
-> No executors. No loaders. No client modifications.
+> *No executors. No loaders. No client modifications.*
 
 ---
 
-# ⚠️ What Is OpenCloud?
+# What Is OpenCloud?
 
-OpenCloud is a cloud based serverside access platform designed around a single goal:
+OpenCloud is a cloud based serverside access platform built around a single objective:
 
-## Maximum Control
+# Maximum Control
 
-Traditional tools rely on:
+Traditional methods require:
 
 ❌ Executors
 
-❌ Injectors
+❌ Script Injection
 
-❌ Loaders
+❌ Memory Modification
 
-❌ Client modifications
+❌ Joining The Game
 
-❌ Joining the game
+❌ Client Side Software
 
-OpenCloud eliminates all of them.
+OpenCloud removes all of them.
 
-Instead, the platform focuses entirely on direct cloud infrastructure interaction and advanced automation techniques.
-
----
-
-# 📖 The Story
-
-<details>
-<summary><strong>Read More</strong></summary>
-
-The methodology behind OpenCloud was first documented by the infamous Blackhat Modded during extensive research into Roblox cloud infrastructure.
-
-Unlike traditional approaches, the project focused on cloud side interactions rather than client side execution.
-
-Its unusual design quickly gained attention throughout underground communities and became one of the most discussed concepts in the Roblox scene.
-
-</details>
+Instead, it leverages direct cloud infrastructure interaction to provide a streamlined path to advanced Roblox management capabilities.
 
 ---
 
-# 🚀 Capabilities
+# The Discovery
 
-| Feature                  | Status |
-| ------------------------ | ------ |
-| Serverside Lua Execution | ✅      |
-| DataStore Management     | ✅      |
-| Player Management        | ✅      |
-| Universe Operations      | ✅      |
-| Service Interaction      | ✅      |
-| Automation Systems       | ✅      |
+> "Why inject into the game when you can interact with the cloud itself?"
+
+The concept behind OpenCloud was first documented by the infamous **Blackhat Modded** after extensive research into Roblox cloud infrastructure and large scale service behavior.
+
+The methodology quickly gained attention due to its complete departure from traditional exploit based approaches.
+
+While most projects focused on the client, OpenCloud focused on the cloud.
 
 ---
 
-# 🔥 Why People Use It
+# Capabilities
 
-### No Executors
+| Capability | Available |
+|------------|------------|
+| Serverside Lua Execution | ✅ |
+| Player Management | ✅ |
+| DataStore Management | ✅ |
+| Universe Operations | ✅ |
+| Service Interaction | ✅ |
+| Automation Systems | ✅ |
+
+---
+
+# Why OpenCloud?
+
+## No Executors
 
 No downloads.
 
-No DLLs.
-
 No injectors.
 
-### No Client Modifications
+No loaders.
+
+No unnecessary software.
+
+## No Client Modifications
 
 Nothing runs inside Roblox.
 
-Everything happens through cloud infrastructure.
+Everything is handled externally.
 
-### Fast Deployment
+## Fast Deployment
 
 Minimal setup.
 
-Immediate access.
+Immediate operation.
 
 Scalable architecture.
 
 ---
 
-# 📊 Comparison
+# Traditional Tools vs OpenCloud
 
-| Feature             | Traditional Tools | OpenCloud |
-| ------------------- | ----------------- | --------- |
-| Executor Required   | ✅                 | ❌         |
-| Game Join Required  | ✅                 | ❌         |
-| Client Modification | ✅                 | ❌         |
-| Cloud Based         | ❌                 | ✅         |
-| Automation Ready    | ⚠️                | ✅         |
+| Feature | Traditional Tools | OpenCloud |
+|----------|----------|----------|
+| Executor Required | ✅ | ❌ |
+| Join Required | ✅ | ❌ |
+| Client Modification | ✅ | ❌ |
+| Cloud Based | ❌ | ✅ |
+| Automation Ready | ⚠️ | ✅ |
 
 ---
 
-# 📋 Requirements
+# Requirements
 
 ```text
 Valid OpenCloud API Key
 
 Internet Connection
 
-Basic Understanding of Roblox Infrastructure
+Basic Roblox Infrastructure Knowledge
 ```
 
 ---
 
-# 🎯 Mission
+# Mission Statement
 
 OpenCloud exists to push the boundaries of cloud based Roblox management.
 
-The project prioritizes:
+Built around:
 
 * Performance
 * Automation
@@ -124,15 +123,13 @@ The project prioritizes:
 
 ---
 
-# 🌐 Repository
+# Repository
 
-```text
 https://github.com/opencloud/ss-access
-```
 
 ---
 
-# 📜 License
+# License
 
 MIT License
 
@@ -140,10 +137,10 @@ MIT License
 
 # OpenCloud
 
-### No Scripts.
+## No Scripts.
 
-### No Executors.
+## No Executors.
 
-### No Compromises.
+## No Compromises.
 
-## Just OpenCloud.
+# Just OpenCloud.
